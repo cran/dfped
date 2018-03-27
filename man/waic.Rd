@@ -25,13 +25,13 @@ waic(stanfit, s)
 }  
 
 \references{ 
-	Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research. 
+	Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research, <doi:10.1177/0962280216671348>.
 	    
 	Watanabe S. Asymptotic Equivalence of Bayes cross vallidation and widely applicable information criterion in singular learning theory, volume 11. 2010.
 }     
 
 \author{   
-	Artemis Toumazi \email{artemis.toumazi@inserm.fr},
+	Artemis Toumazi \email{artemis.toumazi@gmail.com},
 	Caroline Petit \email{caroline.petit@crc.jussieu.fr},
 	Sarah Zohar \email{sarah.zohar@inserm.fr}
 }

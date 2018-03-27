@@ -43,7 +43,7 @@ function(dataTox, doses, nbSimu){
     graine <- 15					                # graine for the simulations 
     cohort <- 3
     cdeb <-  rep(3, trunc(n/3)*3)					# the size of the cohorts for the schema up-and-down. 
-    
+
     # The variables for the simulations 
     r1		<- 	matrix(NA, nrow=n, ncol=length(dr))
     simuld	<- 	bonval <- nbna <- matrix(0, repet,2)
@@ -59,7 +59,7 @@ function(dataTox, doses, nbSimu){
     estimated_alpha <- c()
     estimated_proba <- c()
     
-    # The initiation graine
+    # The initiation graine 
     set.seed(graine)
     
     for (k in 1:repet){

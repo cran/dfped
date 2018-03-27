@@ -43,7 +43,7 @@ sigmaEss(mStar, sigma, Mmin, Mmax, meana, c, wm, Tmc)
 }
 
 \references{
-Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research.
+Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research, <doi:10.1177/0962280216671348>.
     
 Morita S., Thall P.F., and Muller P. (2008) Determining the effective sample size of a parametric prior. Biometrics.
 
@@ -51,7 +51,7 @@ Morita S. (2011) Application of the continual reassessment method to a phase I d
 } 
 
 \author{
-    Artemis Toumazi \email{artemis.toumazi@inserm.fr},
+    Artemis Toumazi \email{artemis.toumazi@gmail.com},
     Caroline Petit \email{caroline.petit@crc.jussieu.fr},
     Sarah Zohar \email{sarah.zohar@inserm.fr} 
 }

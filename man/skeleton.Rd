@@ -43,11 +43,11 @@ skeleton(doseChildren, doseAdult, dataTox, dataAuc = NULL, Clad,
 }
 
 \references{
-    Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research.
+    Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research, <doi:10.1177/0962280216671348>.
 }
 
 \author{ 
-    Artemis Toumazi \email{artemis.toumazi@inserm.fr},
+    Artemis Toumazi \email{artemis.toumazi@gmail.com},
     Caroline Petit \email{caroline.petit@crc.jussieu.fr}, 
     Sarah Zohar \email{sarah.zohar@inserm.fr} 
 }
